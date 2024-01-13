@@ -1,0 +1,5 @@
+a = input("Enter A Number: ")
+b = input("Enter A Number: ")
+a = int(a)
+b = int(b)
+print("Remainder When We divide", a ,"by" , b , "is :" , a%b)
